@@ -1,0 +1,24 @@
+.d-flex { display: flex; }
+.wrap { flex-wrap: wrap; }
+.justify-center { justify-content: center; }
+.gap-lg { gap: 20px; }
+.text-center { text-align: center; }
+.pointer { cursor: pointer; }
+.p-sm { padding: 12px; }
+.p-md { padding: 24px; }
+.mb-sm { margin-bottom: 12px; }
+.w-full { width: 100%; }
+.w-300 { width: 300px; }
+.h-180 { height: 180px; }
+.fs-sm { font-size: 14px; }
+.fs-lg { font-size: 18px; }
+.fw-bold { font-weight: bold; }
+.bg-light { background-color: #f4f4f4; }
+.bg-white { background-color: white; }
+.bg-gray { background-color: gray; }
+.text-white { color: white; }
+.shadow { box-shadow: 0 0 10px rgba(0,0,0,0.2); }
+.overflow-hidden { overflow: hidden; }
+.obj-cover { object-fit: cover; }
+
+
