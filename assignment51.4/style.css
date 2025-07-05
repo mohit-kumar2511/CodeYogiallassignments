@@ -1,0 +1,17 @@
+.flex {display: flex;}
+.align-center {align-items: center;}
+.gap-4 {gap: 1rem;}
+.p-8 {padding: 2rem;}
+.p-1 {padding: 0.5rem;}
+.mr-2 {margin-right: 0.5rem;}
+.mt-2 {margin-top: 0.5rem;}
+.mb-4 {margin-bottom: 1rem;}
+.w-50 {width: 50%;}
+.w-full {width: 100%;}
+.blue {color: blue;}
+.white {color: white;}
+.fw-bold {font-weight: bold;}
+.fs-24 {font-size: 24px;}
+.bg-blue {background-color: blue;}
+.border-none {border: none;}
+.rounded {border-radius: 4px;}
